@@ -1,0 +1,13 @@
+
+
+#heading {
+    display: flex;
+    position: relative;
+    height: 100vh;
+    width: 100%;
+    margin-left: -2em;  
+    background-color:whitesmoke;
+    margin:0 0;
+    overflow: hidden;  
+    z-index: 0;
+  }
